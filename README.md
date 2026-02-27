@@ -20,32 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA Generativa para Arquitetos de Soluções: Integrando com Arquitetura e Design Patterns
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book com 5 capítulos explora como a IA Generativa pode revolucionar o desenvolvimento de soluções, alinhando-se a arquiteturas e design patterns pré-definidos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização
+IA Generativa **[GammaApp](https://gamma.app/)** para criação do e-book
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para pesquisar e refinar sobre o tema, depois utilizei o GammaApp para montar o e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na criação de soluções realmente robustas e escaláveis.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[LINK PARA O E-BOOK AQUI](https://github.com/rodrigobuzatto/lab-natty-or-not/blob/main/exemplos/ebook.pdf)
